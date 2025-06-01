@@ -62,26 +62,7 @@ The proposed system achieves higher accuracy, faster execution, and better scala
 * ✅ **23% improvement in accuracy** over FP-Growth alone
 * ⏱️ **15% reduction in execution time** compared to Random Forest
 
-## 📌 How to Run
 
-1. Clone this repo:
-
-   ```bash
-   git clone https://github.com/yourusername/market-basket-analysis.git
-   cd market-basket-analysis
-   ```
-
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the analysis:
-
-   ```bash
-   python main.py
-   ```
 
 ## 🔍 Future Work
 
