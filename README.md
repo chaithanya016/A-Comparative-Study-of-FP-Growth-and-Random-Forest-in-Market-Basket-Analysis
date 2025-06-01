@@ -1,0 +1,2 @@
+# A-Comparative-Study-of-FP-Growth-and-Random-Forest-in-Market-Basket-Analysis
+• Compared FP-Growth and Random Forest on retail purchasing data. • Used FP-Growth to find frequent itemsets and rules. • Applied Random Forest to classify buying behavior. • Implemented using Pandas, MLxtend, Scikit-Learn, and Matplotlib. • Evaluated with accuracy, confidence, lift, and training time to improve sales strategies.
